@@ -1,0 +1,4 @@
+Flask==3.1.0
+Flask-RESTful==0.3.10
+boto3==1.35.84
+python-dotenv==1.0.1
